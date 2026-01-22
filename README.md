@@ -1,10 +1,11 @@
 # 🛒 Customer Purchase Behavior Analysis with Hadoop
 
 ## 📌 Overview
-In today’s fast-paced retail world, **data alone isn’t enough** — insights are what drive decisions. This project transforms **over 100,000 raw e-commerce records** from Target’s Brazilian operations into a **strategic roadmap for growth**, turning complex data into actionable business intelligence. Leveraging **Cloud Computing and Big Data frameworks**, the goal was to decode consumer behavior, uncover patterns, and provide clear recommendations to optimize operations and boost revenue.  
+
+In today’s fast-paced retail world, **data alone isn’t enough** — insights drive decisions. This project **transforms over 100,000 raw e-commerce records** from Target’s Brazilian operations into a **strategic roadmap for growth**, turning complex data into actionable business intelligence. Leveraging **Cloud Computing and Big Data frameworks**, it **decodes consumer behavior, uncovers patterns, and provides clear recommendations** to optimize operations and boost revenue.  
 
 ### Project Objectives
-The project aims to deliver insights across three key dimensions:
+The project focuses on three key objectives:
 
 1. **Analyze Customer Purchasing Behavior**  
    Understand how often customers buy, what drives their decisions, and uncover patterns in their shopping habits.
