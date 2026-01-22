@@ -1,13 +1,19 @@
 # 🛒 Customer Purchase Behavior Analysis with Hadoop
 
 ## 📌 Overview
-In today’s retail landscape, **data is only as valuable as the insights extracted from it**. This project focuses on the **end-to-end transformation of over 100,000 raw e-commerce records** from Target’s Brazilian operations into a strategic growth roadmap.  
+In today’s fast-paced retail world, **data alone isn’t enough** — insights are what drive decisions. This project transforms **over 100,000 raw e-commerce records** from Target’s Brazilian operations into a **strategic roadmap for growth**, turning complex data into actionable business intelligence. Leveraging **Cloud Computing and Big Data frameworks**, the goal was to decode consumer behavior, uncover patterns, and provide clear recommendations to optimize operations and boost revenue.  
 
-The project has the following objectives:
+### Project Objectives
+The project aims to deliver insights across three key dimensions:
 
-1. **Analyze Customer Purchasing Behavior**: Understand the frequency and patterns of customer purchases and identify factors that influence purchase decisions.  
-2. **Identify Customer Preferences**: Track spending patterns and uncover insights into product categories, payment methods, and purchasing timing to understand what drives customer choices.  
-3. **Segment Customers Based on Behavior and Demographics**: Segment customers based on geographic location, purchasing frequency, and payment methods, enabling targeted strategies for different groups.  
+1. **Analyze Customer Purchasing Behavior**  
+   Understand how often customers buy, what drives their decisions, and uncover patterns in their shopping habits.
+
+2. **Identify Customer Preferences**  
+   Track spending trends across product categories, payment methods, and timing to reveal what influences purchasing decisions.
+
+3. **Segment Customers Based on Behavior and Demographics**  
+   Group customers by geography, purchase frequency, and payment preferences to enable **targeted strategies** for different segments.
 
 **Dataset:** [Brazilian E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
