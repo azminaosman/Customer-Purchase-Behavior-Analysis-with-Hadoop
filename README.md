@@ -27,15 +27,7 @@ To handle the **volume and variety of e-commerce data**, the project utilized a 
   <img src="images/hadoop-framework.png" width="650">
 </p>
 
-- **Environment**: Deployed using **Hortonworks 2.1** on **Oracle VirtualBox**, with **PuTTY** for SSH access and **WinSCP** for secure file transfers between the local machine and the Hadoop cluster.
-
-- **Data Storage & Management**: **HDFS** serves as the primary storage layer for large-scale datasets, while **Apache HCatalog** standardizes metadata to ensure consistent and seamless data access across all processing tools.
-
-- **Processing & Querying**: **Apache Hive** acts as the primary analytical engine. Its SQL-like interface enables efficient querying and joining of **six interconnected datasets** (Customers, Orders, Products, Payments, etc.), while also supporting data cleaning tasks such as the removal of **14,056 duplicate records**.
-
-- **Data Transformation**: **Apache Pig** handles high-level data scripting and preprocessing, simplifying complex transformation logic and improving data readiness for analysis.
-
-- **Visualization & BI**: **Power BI** integrates with the processed datasets to create **interactive dashboards**, enabling real-time monitoring of trends, patterns, and key business metrics.
+This project uses a **Hadoop-based architecture** to efficiently handle and analyze large-scale e-commerce data. The experiment runs in a **simulated Hadoop environment**, where raw datasets are ingested, organized, and standardized for consistent processing. Data is then **cleaned, transformed, and prepared** for analysis, and finally **visualized in interactive dashboards** that reveal customer behavior, market trends, and key business insights. This end-to-end workflow demonstrates a **scalable and integrated approach**, turning complex datasets into actionable intelligence while highlighting both technical expertise and the ability to extract real-world business value.
 
 ---
 
