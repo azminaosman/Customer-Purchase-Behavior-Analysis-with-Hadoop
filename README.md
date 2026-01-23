@@ -20,10 +20,11 @@ The project focuses on three key objectives:
 
 ---
 
-## 🛠 Technical Framework
+## 🛠 Hadoop Ecosystem
 To handle the **volume and variety of e-commerce data**, the project utilized a robust **Hadoop ecosystem** for scalable and precise data management:
+
 <p align="center">
-  <img src="images/hadoop-framework.png" width="550">
+  <img src="images/hadoop-framework.png" width="650">
 </p>
 
 - **Environment**: Deployed using **Hortonworks 2.1** on **Oracle VirtualBox**, with **PuTTY** for SSH access and **WinSCP** for secure file transfers between the local machine and the Hadoop cluster.
