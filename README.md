@@ -31,22 +31,37 @@ The experiment runs in a **simulated Hadoop environment**, where raw datasets ar
 
 ---
 
-## 📊 Strategic Business Insights
-The analysis uncovered key trends and performance drivers in the Brazilian retail market:
+## 🔑 Key Findings
 
-- **Seasonal Revenue Cycles**: Revenue peaks in **November and December**, confirming Black Friday and year-end holidays as primary drivers of **$8.73M annual revenue**.  
-- **Category Dominance**: **Home & Living (26.9%)** and **Sports & Outdoors (19.7%)** emerged as top sectors, highlighting lifestyle and wellness-focused consumer behavior.  
-- **Regional Payment Habits**: Preference for **credit card installments**, reflecting financial flexibility as a requirement for high-value conversions.  
-- **The Retention Gap**: Approximately **37,000 one-time buyers** identified, revealing a major opportunity for targeted re-engagement strategies.
+### 1. Customer Purchase Behavior
+<p align="center">
+  <img src="images/purchasing-behavior.png" width="650">
+</p>
 
----
+- **Total Orders & Revenue:** 51,211 orders generating **$8.73M**, with an **Average Order Value (AOV) of $204.59**.  
+- **Seasonal Trends:** Highest purchase activity occurs in **November and December**, driven by holidays like Black Friday and Cyber Monday.  
+- **Insight:** Timing of promotions and high-value product launches significantly impacts sales.  
+- **Recommendation:** Focus on **seasonal promotions**, optimize inventory for peak months, and engage customers post-holiday through **loyalty programs and special offers**.
 
-## 💡 Data-Driven Recommendations
-Based on the insights, three core strategic actions were proposed:
+### 2. Customer Preferences
+<p align="center">
+  <img src="images/customer-preferences.png" width="650">
+</p>
 
-1. **Retention Engineering**: Implement automated **CRM sequences** and loyalty incentives to convert one-time purchasers into repeat customers.  
-2. **Predictive Inventory Management**: Adjust stock levels for top categories (**Home & Living**) **60 days before the Q4 surge**.  
-3. **Checkout Optimization**: Streamline installment payments and **voucher redemption** to reduce friction during high-intent purchase periods.
+- **Top Categories:** **Home & Living (26.9%)**, **Sports & Outdoors (19.7%)**, **Health & Beauty (10.7%)**.  
+- **Price Range Preference:** Average product price **$120.30**, indicating a preference for **mid-range items**.  
+- **Payment Behavior:** Installment payments, especially via **credit cards**, are popular.  
+- **Recommendation:** Prioritize high-performing categories, expand **installment options**, and create targeted promotions for lower-performing categories.
+
+### 3. Customer Segmentation
+<p align="center">
+  <img src="images/customer-segmentation.png" width="650">
+</p>
+
+- **One-Time vs. Repeat Buyers:** Majority (**37,000**) are **one-time buyers**, presenting an opportunity to increase retention.  
+- **Payment Trends:** Credit cards dominate, while repeat buyers prefer **vouchers**, indicating loyalty program effectiveness.  
+- **Regional & Seasonal Patterns:** High concentration of customers in specific regions; repeat buyers maintain consistent purchasing behavior throughout the year.  
+- **Recommendation:** Convert one-time buyers with **personalized marketing, loyalty incentives, and referral programs**; optimize payment processes and run **region-specific campaigns** to improve engagement.
 
 ---
 
