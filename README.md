@@ -38,10 +38,11 @@ The experiment runs in a **simulated Hadoop environment**, where raw datasets ar
   <img src="images/purchasing-behavior.png" width="650">
 </p>
 
-- **Total Orders & Revenue:** 51,211 orders generating **$8.73M**, with an **Average Order Value (AOV) of $204.59**.  
+- **Total Orders & Revenue:** 51,211 orders generating **$8.73M**, with an **Average Order Value (AOV) of $204.59**.This means that on average, each customer spent $204.59 per order.  
 - **Seasonal Trends:** Highest purchase activity occurs in **November and December**, driven by holidays like Black Friday and Cyber Monday.  
 - **Insight:** Timing of promotions and high-value product launches significantly impacts sales.  
 - **Recommendation:** Focus on **seasonal promotions**, optimize inventory for peak months, and engage customers post-holiday through **loyalty programs and special offers**.
+</p>
 
 ### 2. Customer Preferences
 <p align="center">
@@ -52,6 +53,7 @@ The experiment runs in a **simulated Hadoop environment**, where raw datasets ar
 - **Price Range Preference:** Average product price **$120.30**, indicating a preference for **mid-range items**.  
 - **Payment Behavior:** Installment payments, especially via **credit cards**, are popular.  
 - **Recommendation:** Prioritize high-performing categories, expand **installment options**, and create targeted promotions for lower-performing categories.
+</p>
 
 ### 3. Customer Segmentation
 <p align="center">
