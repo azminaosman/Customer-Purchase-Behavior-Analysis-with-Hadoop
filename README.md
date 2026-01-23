@@ -33,6 +33,9 @@ The experiment runs in a **simulated Hadoop environment**, where raw datasets ar
 
 ## 🔑 Key Findings
 
+**Explore the full interactive dashboard in Power BI:**  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjJlMDk0ZGUtNmQ3Ni00MjlmLTlkYzQtNTdlYTI2OWZhY2NiIiwidCI6IjBlMGRiMmFkLWM0MTYtNDdjNy04OGVjLWNlYWM0ZWU3Njc2NyIsImMiOjEwfQ%3D%3D)
+
 ### 1. Customer Purchase Behavior
 <p align="center">
   <img src="images/purchasing-behavior.png" width="650">
