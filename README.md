@@ -22,14 +22,19 @@ The project focuses on three key objectives:
 
 ## 🛠 Technical Framework
 To handle the **volume and variety of e-commerce data**, the project utilized a robust **Hadoop ecosystem** for scalable and precise data management:
+<p align="center">
+  <img src="images/hadoop-framework.png" width="550">
+</p>
 
-![Hadoop Framework Diagram](https://via.placeholder.com/800x400.png?text=Hadoop+Framework+Diagram)
+- **Environment**: Deployed using **Hortonworks 2.1** on **Oracle VirtualBox**, with **PuTTY** for SSH access and **WinSCP** for secure file transfers between the local machine and the Hadoop cluster.
 
-- **Distributed Storage (HDFS)**: Primary repository for high-volume datasets, ensuring durability and reliability.  
-- **Metadata Management (Apache HCatalog)**: Standardized data definitions across the stack, enabling seamless interoperability between tools.  
-- **Data Transformation (Apache Pig)**: Automated data cleaning, removed over **14,000 duplicate entries**, and handled missing values to maintain integrity.  
-- **Analytical Querying (Apache Hive)**: Performed SQL-style joins across **Customers, Orders, and Payments tables** to generate a unified view of retail operations.  
-- **Visualization & BI (Power BI)**: Converted processed data into **dynamic dashboards**, providing executive-level insights.
+- **Data Storage & Management**: **HDFS** serves as the primary storage layer for large-scale datasets, while **Apache HCatalog** standardizes metadata to ensure consistent and seamless data access across all processing tools.
+
+- **Processing & Querying**: **Apache Hive** acts as the primary analytical engine. Its SQL-like interface enables efficient querying and joining of **six interconnected datasets** (Customers, Orders, Products, Payments, etc.), while also supporting data cleaning tasks such as the removal of **14,056 duplicate records**.
+
+- **Data Transformation**: **Apache Pig** handles high-level data scripting and preprocessing, simplifying complex transformation logic and improving data readiness for analysis.
+
+- **Visualization & BI**: **Power BI** integrates with the processed datasets to create **interactive dashboards**, enabling real-time monitoring of trends, patterns, and key business metrics.
 
 ---
 
