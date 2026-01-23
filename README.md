@@ -27,7 +27,7 @@ To handle the **volume and variety of e-commerce data**, the project utilized a 
   <img src="images/hadoop-framework.png" width="650">
 </p>
 
-This project uses a **Hadoop-based architecture** to efficiently handle and analyze large-scale e-commerce data. The experiment runs in a **simulated Hadoop environment**, where raw datasets are ingested, organized, and standardized for consistent processing. Data is then **cleaned, transformed, and prepared** for analysis, and finally **visualized in interactive dashboards** that reveal customer behavior, market trends, and key business insights. This end-to-end workflow demonstrates a **scalable and integrated approach**, turning raw e-commerce data into actionable insights that support informed business decisions.
+The experiment runs in a **simulated Hadoop environment**, where raw datasets are ingested, organized, and standardized for consistent processing. Data is then **cleaned, transformed, and prepared** for analysis, and finally **visualized in interactive dashboards** that reveal customer behavior, market trends, and key business insights. This end-to-end workflow demonstrates a **scalable and integrated approach**, turning raw e-commerce data into actionable insights that support informed business decisions.
 
 ---
 
