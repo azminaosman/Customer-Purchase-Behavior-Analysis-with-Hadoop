@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-In today’s fast-paced retail world, **data alone isn’t enough** — insights drive decisions. This project **transforms over 100,000 raw e-commerce records** from Target’s Brazilian operations into a **strategic roadmap for growth**, turning complex data into actionable business intelligence. Leveraging **Cloud Computing and Big Data frameworks**, it **decodes consumer behavior, uncovers patterns, and provides clear recommendations** to optimize operations and boost revenue.  
+In today’s fast-paced retail world, **data alone isn’t enough** — insights drive decisions. This project **transforms over 100,000 raw e-commerce records** from Olist Store’s Brazilian operations into a **strategic roadmap for growth**, turning complex data into actionable business intelligence. Leveraging **Cloud Computing and Big Data frameworks**, it **decodes consumer behavior, uncovers patterns, and provides clear recommendations** to optimize operations and boost revenue.  
 
 ### Project Objectives
 The project focuses on three key objectives:
